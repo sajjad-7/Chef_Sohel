@@ -1,0 +1,84 @@
+h2 {
+    font-size: 60px;
+    color: rgb(86, 95, 95);
+    text-decoration: underline;
+}
+
+.website {
+    display: flex;
+    justify-content: center;
+
+}
+
+.me {
+
+    font-size: 35px;
+
+    text-align: center;
+
+}
+
+body {
+    background-color: rgb(246, 238, 238);
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+    width: 870px;
+    background-color: rgb(196, 196, 196);
+    padding-inline-start: 15%;
+    padding-inline-end: 30%;
+
+}
+
+hr {}
+
+.pic img {
+    width: 400px;
+    height: 400px;
+}
+
+nav {
+    background-color: rgb(123, 123, 195);
+    height: 150px;
+
+
+}
+
+
+
+
+nav li {
+    list-style: none;
+    margin-right: 20px;
+    padding-bottom: 5px;
+
+}
+
+nav li:hover {
+    background-color: grey;
+}
+
+nav li a {
+    text-decoration: none;
+    color: whitesmoke;
+
+
+}
+
+nav ul {
+    display: flex;
+    padding-inline-start: 80%;
+
+}
+
+h3 {
+    font-size: 25px;
+    color: aliceblue;
+    margin-left: 5%;
+
+}
